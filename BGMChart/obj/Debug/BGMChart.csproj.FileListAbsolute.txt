@@ -1,0 +1,1977 @@
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\Account.g.cs
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\Register.g.cs
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\App.g.cs
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\icudtl.dat
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\libcef.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\libEGL.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\af.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\am.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\da.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\de.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\el.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\es.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\et.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\he.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\id.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\it.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\te.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\th.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\README.txt
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\resources.pak
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Snappier.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\Snappier.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\App.baml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\Account.baml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\Register.baml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart\BGMChart\obj\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\a0102\Desktop\BGMChart\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\icudtl.dat
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\libcef.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\libEGL.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\af.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\am.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\da.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\de.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\el.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\es.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\et.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\he.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\id.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\it.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\te.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\th.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\README.txt
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\resources.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Snappier.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\Snappier.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\Account.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\Register.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\App.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\App.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\Account.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\Register.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\racoo\Desktop\BGMChart 최신버전\BGMChart\obj\Debug\BGMChart.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\icudtl.dat
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\libcef.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\libEGL.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\af.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\am.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\da.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\de.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\el.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\es.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\et.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\he.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\id.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\it.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\te.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\th.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\README.txt
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\resources.pak
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Snappier.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Snappier.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Account.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Register.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\App.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\App.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Account.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Register.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\racoo\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\icudtl.dat
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\libcef.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\libEGL.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\af.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\am.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\da.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\de.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\el.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\es.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\et.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\he.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\id.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\it.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\te.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\th.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\README.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\resources.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Snappier.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\Snappier.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Account.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Register.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\App.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\App.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Account.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Register.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 수정중\BGMChart\obj\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\icudtl.dat
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\libcef.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\libEGL.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\af.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\am.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\da.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\de.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\el.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\es.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\et.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\he.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\id.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\it.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\te.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\th.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\README.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\resources.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Snappier.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\Snappier.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\Account.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\Register.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\App.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\App.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\Account.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\Register.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v3\BGMChart\obj\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\icudtl.dat
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\libcef.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\libEGL.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\af.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\am.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\da.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\de.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\el.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\es.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\et.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\he.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\id.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\it.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\te.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\th.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\README.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\resources.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Snappier.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\Snappier.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\Account.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\Register.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\App.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\App.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\Account.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\Register.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v4\BGMChart\obj\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\icudtl.dat
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\libcef.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\libEGL.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\af.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\am.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\da.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\de.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\el.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\es.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\et.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\he.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\id.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\it.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\te.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\th.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\README.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\resources.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Snappier.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\Snappier.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\Account.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\Register.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\App.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\App.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\Account.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\Register.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\icudtl.dat
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\libcef.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\libEGL.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\af.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\am.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\da.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\de.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\el.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\es.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\et.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\he.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\id.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\it.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\te.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\th.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\README.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\resources.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Snappier.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\Snappier.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\Account.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\Register.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\App.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\App.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\Account.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\Register.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v7\BGMChart\obj\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\icudtl.dat
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\libcef.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\libEGL.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\af.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\am.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\da.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\de.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\el.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\es.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\et.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\he.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\id.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\it.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\te.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\th.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\README.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\resources.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Snappier.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\Snappier.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\Account.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\Register.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\App.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\App.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\Account.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\Register.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\icudtl.dat
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\libcef.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\libEGL.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\af.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\am.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\da.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\de.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\el.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\es.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\et.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\he.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\id.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\it.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\te.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\th.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\README.txt
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\resources.pak
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Snappier.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\Snappier.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\Account.g.cs
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\Register.g.cs
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\App.g.cs
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\App.baml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\Account.baml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\Register.baml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\racoo\Downloads\BGMChart 최신버전 v8\BGMChart\obj\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\chrome_100_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\chrome_200_percent.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\chrome_elf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\d3dcompiler_47.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\icudtl.dat
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\libcef.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\libEGL.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\libGLESv2.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\LICENSE.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\af.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\am.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\ar.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\bg.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\bn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\ca.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\cs.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\da.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\de.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\el.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\en-GB.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\en-US.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\es-419.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\es.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\et.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\fa.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\fi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\fil.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\fr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\gu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\he.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\hi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\hr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\hu.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\id.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\it.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\ja.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\kn.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\ko.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\lt.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\lv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\ml.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\mr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\ms.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\nb.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\nl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\pl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\pt-BR.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\pt-PT.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\ro.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\ru.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\sk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\sl.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\sr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\sv.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\sw.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\ta.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\te.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\th.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\tr.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\uk.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\ur.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\vi.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\zh-CN.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\locales\zh-TW.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\README.txt
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\resources.pak
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\snapshot_blob.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\v8_context_snapshot.bin
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\vk_swiftshader.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\vk_swiftshader_icd.json
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\vulkan-1.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\mongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\BGMChart.exe.config
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\BGMChart.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\AWSSDK.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.Wpf.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\DnsClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\MongoDB.Bson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\MongoDB.Driver.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Ninja.WebSockets.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\SharpCompress.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Snappier.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\SocketIO.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\SocketIO.Serializer.Core.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\SocketIOClient.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Buffers.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Drawing.Common.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Memory.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Text.Json.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.ValueTuple.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\WebSocket4Net.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\ZstdSharp.dll
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\AWSSDK.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\AWSSDK.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.Core.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.Wpf.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\CefSharp.Wpf.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\DnsClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\MongoDB.Bson.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\MongoDB.Driver.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\Snappier.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\SocketIOClient.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Buffers.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Drawing.Common.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Memory.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Security.AccessControl.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Text.Json.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\bin\Debug\System.ValueTuple.xml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart.csproj.AssemblyReference.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\Account.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\Chatroom.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\MainWindow.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\Register.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\Themes\Conversation.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\UnRegister.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\App.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart_Content.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart_MarkupCompile.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart_MarkupCompile.lref
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\App.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\Account.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\Chatroom.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\MainWindow.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\Register.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\Themes\Conversation.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\UnRegister.baml
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart.g.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart.Properties.Resources.resources
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart.csproj.GenerateResource.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart.csproj.CoreCompileInputs.cache
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart.csproj.CopyComplete
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart.exe
+C:\Users\a0102\Desktop\BGMChart 최신버전 v9\BGMChart\obj\Debug\BGMChart.pdb
