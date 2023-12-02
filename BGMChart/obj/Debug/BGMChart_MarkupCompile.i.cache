@@ -4,17 +4,17 @@
 exe
 C#
 .cs
-C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\obj\Debug\
+C:\Users\a0102\Desktop\frontEnd\BGMChart\obj\Debug\
 BGMChart
 none
 false
 DEBUG;TRACE
-C:\Users\a0102\Desktop\BGMChart 최신버전 v5\BGMChart\App.xaml
+C:\Users\a0102\Desktop\frontEnd\BGMChart\App.xaml
 66337075
-802039547373
+811615241186
 1765584749
-158-1558473348
+158-2040410967
 Account.xaml;Chatroom.xaml;MainWindow.xaml;Register.xaml;Themes\Conversation.xaml;UnRegister.xaml;
 
-True
+False
 

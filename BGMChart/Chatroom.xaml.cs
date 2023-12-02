@@ -1,6 +1,8 @@
 ﻿using BGMChart.Themes;
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Text.Json;
 using System.Windows;
 using System.Windows.Forms;
 using System.Windows.Input;
@@ -12,6 +14,7 @@ namespace BGMChart
     {
         string currentUsername;
         string genre;
+        string ipAddress;
 
         SocketIOClient.SocketIO client;
         ChatViewModel chatViewModel = new ChatViewModel();
@@ -25,6 +28,14 @@ namespace BGMChart
             this.genre = genre;
 
             this.DataContext = chatViewModel;
+
+            string jsonFilePath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "appsettings.json");
+            string json = File.ReadAllText(jsonFilePath);
+            using (JsonDocument doc = JsonDocument.Parse(json))
+            {
+                JsonElement root = doc.RootElement;
+                ipAddress = root.GetProperty("ipAddress").GetString();
+            }
 
         }
 
@@ -88,18 +99,18 @@ namespace BGMChart
 
             DataService dataService = new DataService("ChatRoom");
 
-            if (genre == "Ballade") { browser.Load("http://13.124.230.155:8000/Ballade.mp3"); }
-            else if (genre == "Dance") { browser.Load("http://13.124.230.155:8000/Dance.mp3"); }
-            else if (genre == "Folk") { browser.Load("http://13.124.230.155:8000/Folk.mp3"); }
-            else if (genre == "HipHop") { browser.Load("http://13.124.230.155:8000/HipHop.mp3"); }
-            else if (genre == "Indie") { browser.Load("http://13.124.230.155:8000/Indie.mp3"); }
-            else if (genre == "RB") { browser.Load("http://13.124.230.155:8000/RB.mp3"); }
-            else if (genre == "Rock") { browser.Load("http://13.124.230.155:8000/Rock.mp3"); }
-            else if (genre == "Trot") { browser.Load("http://13.124.230.155:8000/Trot.mp3"); }
+            if (genre == "Ballade") { browser.Load($"http://{ipAddress}:8000/Ballade.mp3"); }
+            else if (genre == "Dance") { browser.Load($"http://{ipAddress}:8000/Dance.mp3"); }
+            else if (genre == "Folk") { browser.Load($"http://{ipAddress}:8000/Folk.mp3"); }
+            else if (genre == "HipHop") { browser.Load($"http://{ipAddress}:8000/HipHop.mp3"); }
+            else if (genre == "Indie") { browser.Load($"http://{ipAddress}:8000/Indie.mp3"); }
+            else if (genre == "RB") { browser.Load($"http://{ipAddress}:8000/RB.mp3"); }
+            else if (genre == "Rock") { browser.Load($"http://{ipAddress}:8000/Rock.mp3"); }
+            else if (genre == "Trot") { browser.Load($"http://{ipAddress}:8000/Trot.mp3"); }
 
 
             // 채팅방에 연결하는 코드 추가
-            client = new SocketIOClient.SocketIO("http://13.124.230.155:5000");
+            client = new SocketIOClient.SocketIO("http://IpAdress:5000");
 
             client.OnConnected += Client_OnConnected;
 

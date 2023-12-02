@@ -9,6 +9,8 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Windows;
 using System.Windows.Forms;
+using System.Text.Json;
+using System.IO;
 
 namespace BGMChart
 {
@@ -19,8 +21,20 @@ namespace BGMChart
 
         public DataService(string databaseName)
         {
-            _client = new MongoClient("mongodb+srv://KSH:1q2w3e4r!@musicdb.zwhnas5.mongodb.net/?retryWrites=true&w=majority");
+            string connectionString = GetDatabaseConnectionString();
+            _client = new MongoClient(connectionString);
             _database = _client.GetDatabase(databaseName);
+        }
+
+        private static string GetDatabaseConnectionString()
+        {
+            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "appsettings.json");
+            string json = File.ReadAllText(filePath);
+            using (JsonDocument doc = JsonDocument.Parse(json))
+            {
+                JsonElement root = doc.RootElement;
+                return root.GetProperty("DatabaseConnection").GetString();
+            }
         }
 
         public List<T> GetAllFromCollection<T>(string collectionName)

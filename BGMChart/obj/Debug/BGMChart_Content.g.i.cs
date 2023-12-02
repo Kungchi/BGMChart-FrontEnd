@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute(".gitignore")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("mongocrypt.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("mongocrypt.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("chrome_100_percent.pak")]
